@@ -13,3 +13,15 @@ A full-stack web application built with **Python, Flask, SQLite, HTML/CSS, and J
    ```bash
    git clone [https://github.com/Pawananbuselvan/code-snippet-vault.git](https://github.com/Pawananbuselvan/code-snippet-vault.git)
    cd code-snippet-vault
+
+installs:
+```bash
+pip install flask
+```
+after completion
+```
+python app.py
+
+```
+Open http://127.0.0.1:5000 in your browser.
+
